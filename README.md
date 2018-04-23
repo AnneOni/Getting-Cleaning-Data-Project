@@ -1,4 +1,4 @@
-"###Getting and Cleaning Data - Project"
+###Getting and Cleaning Data - Project
 
 
 This project covers the ability to extract data from an external source and transform as per requirement.
@@ -10,17 +10,17 @@ The purpose of the script is as follows:
 A) Set working directory to location of downloaded dataset
 
 B) Read and assign the following tables
-*x_train.text
-*y_train.text
-*subject_train.text
-*x_test.text
-*y_test.text
-*subject_test.text
+-x_train.text
+-y_train.text
+-subject_train.text
+-x_test.text
+-y_test.text
+-subject_test.text
 
 C) Combine datasets as follows
-*x_train & x_test
-*y_train & y_test
-*subject_train & subject_test
+-x_train & x_test
+-y_train & y_test
+-subject_train & subject_test
 
 D)Extract Mean and Standard deviation from x_train & x_test merger
 
